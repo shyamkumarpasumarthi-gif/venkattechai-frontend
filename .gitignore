@@ -1,0 +1,62 @@
+# .gitignore
+# Git ignore patterns
+
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+.next/
+dist/
+
+# Production
+*.tsbuildinfo
+
+# Misc
+.DS_Store
+*.pem
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Build artifacts
+build/
+dist/
+tsconfig.tsbuildinfo
+
+# Cache
+.eslintcache
+.stylelintcache
+.cache/

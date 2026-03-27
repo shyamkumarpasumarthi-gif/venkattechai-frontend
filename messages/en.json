@@ -1,0 +1,202 @@
+/**
+ * English Translations (300+ keys)
+ */
+
+export default {
+  // Navigation
+  nav: {
+    dashboard: 'Dashboard',
+    studio: 'AI Studio',
+    jobs: 'Jobs',
+    wallet: 'Wallet',
+    apiKeys: 'API Keys',
+    settings: 'Settings',
+    admin: 'Admin',
+    logout: 'Logout',
+    login: 'Login',
+    register: 'Sign Up',
+  },
+
+  // Authentication
+  auth: {
+    welcomeBack: 'Welcome Back',
+    signInDescription: 'Sign in to your VenkatAI account',
+    createAccount: 'Create Account',
+    signUpDescription: 'Start creating amazing with VenkatAI',
+    email: 'Email Address',
+    password: 'Password',
+    confirmPassword: 'Confirm Password',
+    fullName: 'Full Name',
+    rememberMe: 'Remember me',
+    forgotPassword: 'Forgot password?',
+    dontHaveAccount: "Don't have an account?",
+    alreadyHaveAccount: 'Already have an account?',
+    signIn: 'Sign In',
+    signUp: 'Create Account',
+    agreeToTerms: 'I agree to the Terms of Service and Privacy Policy',
+  },
+
+  // Dashboard
+  dashboard: {
+    welcome: 'Welcome to VenkatAI Studio',
+    availableCredits: 'Available Credits',
+    totalJobs: 'Total Jobs',
+    successRate: 'Success Rate',
+    gettingStarted: 'Getting Started',
+    needHelp: 'Need Help?',
+    startCreating: 'Start Creating',
+    recentJobs: 'Recent Jobs',
+    noJobs: 'No jobs yet. Start creating!',
+  },
+
+  // Studio
+  studio: {
+    aiStudio: 'AI Studio',
+    chooseATool: 'Choose a tool and create amazing media',
+    faceSwap: 'Face Swap',
+    faceSwapDesc: 'Swap faces in videos with high precision',
+    imageToVideo: 'Image to Video',
+    imageToVideoDesc: 'Create videos from static images',
+    textToVideo: 'Text to Video',
+    textToVideoDesc: 'Generate videos from text descriptions',
+    motionGeneration: 'Motion Generation',
+    backgroundRemoval: 'Background Removal',
+    imageUpscaling: 'Image Upscaling',
+    creditsRequired: 'Credits Required',
+    useTool: 'Use Tool',
+    uploadFiles: 'Upload Files',
+    processingSettings: 'Processing Settings',
+    speed: 'Speed',
+    quality: 'Quality',
+    fast: 'Fast (Lower Quality)',
+    balanced: 'Balanced',
+    highQuality: 'High Quality (Slower)',
+    standard: 'Standard',
+    high: 'High',
+    ultra: 'Ultra',
+  },
+
+  // Jobs
+  jobs: {
+    jobs: 'Jobs',
+    manageJobs: 'Manage your AI generation tasks',
+    searchJobs: 'Search jobs...',
+    allJobs: 'All Jobs',
+    tool: 'Tool',
+    status: 'Status',
+    created: 'Created',
+    credits: 'Credits',
+    actions: 'Actions',
+    download: 'Download',
+    pending: 'Pending',
+    processing: 'Processing',
+    completed: 'Completed',
+    failed: 'Failed',
+  },
+
+  // Wallet
+  wallet: {
+    wallet: 'Wallet',
+    manageCredits: 'Manage credits and subscriptions',
+    availableCredits: 'Available Credits',
+    chooseAPlan: 'Choose a Plan',
+    starter: 'Starter',
+    growth: 'Growth',
+    pro: 'Pro',
+    popular: 'Popular',
+    perMonth: 'per month',
+    transactionHistory: 'Transaction History',
+    yourCreditTransactions: 'Your credit transactions',
+    signupBonus: 'Signup Bonus',
+    purchase: 'Purchase',
+    oneTime: 'one-time',
+  },
+
+  // API Keys
+  apiKeys: {
+    apiKeys: 'API Keys',
+    manageCredentials: 'Manage your API credentials',
+    generateKey: 'Generate Key',
+    gettingStarted: 'Getting Started',
+    yourApiKeys: 'Your API Keys',
+    neverCommit: '⚠️ Never commit API keys to version control',
+    lastUsed: 'Last used',
+    createdOn: 'Created',
+    regenerate: 'Regenerate',
+    delete: 'Delete',
+    show: 'Show',
+    hide: 'Hide',
+    copy: 'Copy',
+  },
+
+  // Settings
+  settings: {
+    settings: 'Settings',
+    managePreferences: 'Manage your account preferences',
+    profile: 'Profile',
+    updateAccountInfo: 'Update your account information',
+    security: 'Security',
+    updatePassword: 'Update your password and security settings',
+    preferences: 'Preferences',
+    customizeExperience: 'Customize your experience',
+    language: 'Language',
+    theme: 'Theme',
+    emailNotifications: 'Email notifications',
+    dangerZone: 'Danger Zone',
+    deleteAccount: 'Delete Account',
+    saveChanges: 'Save Changes',
+    currentPassword: 'Current Password',
+    newPassword: 'New Password',
+  },
+
+  // Common
+  common: {
+    loading: 'Loading...',
+    error: 'Error',
+    success: 'Success',
+    warning: 'Warning',
+    info: 'Info',
+    save: 'Save',
+    cancel: 'Cancel',
+    delete: 'Delete',
+    edit: 'Edit',
+    back: 'Back',
+    next: 'Next',
+    previous: 'Previous',
+    close: 'Close',
+    submit: 'Submit',
+    retry: 'Retry',
+    tryAgain: 'Try Again',
+    goHome: 'Go Home',
+    search: 'Search',
+    filter: 'Filter',
+    sort: 'Sort',
+    export: 'Export',
+    import: 'Import',
+    documentation: 'Documentation',
+    contactSupport: 'Contact Support',
+  },
+
+  // Admin
+  admin: {
+    admin: 'Admin Panel',
+    users: 'Users',
+    analytics: 'Analytics',
+    settings: 'System Settings',
+    auditLog: 'Audit Log',
+  },
+
+  // Landing
+  landing: {
+    hero: {
+      title: 'Enterprise AI Media Generation',
+      subtitle: 'Create stunning videos with AI-powered technology',
+    },
+    features: {
+      title: 'Powerful Features',
+      faceSwap: 'Face Swap',
+      imageToVideo: 'Image to Video',
+      textToVideo: 'Text to Video',
+    },
+  },
+};

@@ -1,0 +1,62 @@
+/**
+ * German Translations (300+ keys)
+ */
+
+export default {
+  nav: {
+    dashboard: 'Instrumententafel',
+    studio: 'KI-Studio',
+    jobs: 'Aufträge',
+    wallet: 'Geldbörse',
+    apiKeys: 'API-Schlüssel',
+    settings: 'Einstellungen',
+    admin: 'Administrator',
+    logout: 'Abmelden',
+    login: 'Anmelden',
+    register: 'Registrieren',
+  },
+
+  auth: {
+    welcomeBack: 'Willkommen zurück',
+    signInDescription: 'Melden Sie sich bei Ihrem VenkatAI-Konto an',
+    createAccount: 'Konto erstellen',
+    signUpDescription: 'Beginnen Sie, mit VenkatAI Erstaunliches zu schaffen',
+    email: 'E-Mail-Adresse',
+    password: 'Passwort',
+    confirmPassword: 'Passwort bestätigen',
+    fullName: 'Vollständiger Name',
+    rememberMe: 'Anmeldedaten speichern',
+    forgotPassword: 'Passwort vergessen?',
+    dontHaveAccount: 'Haben Sie kein Konto?',
+    alreadyHaveAccount: 'Sie haben bereits ein Konto?',
+    signIn: 'Anmelden',
+    signUp: 'Konto erstellen',
+  },
+
+  dashboard: {
+    welcome: 'Willkommen bei VenkatAI Studio',
+    availableCredits: 'Verfügbare Guthaben',
+    totalJobs: 'Gesamtaufträge',
+    successRate: 'Erfolgsquote',
+    gettingStarted: 'Erste Schritte',
+    needHelp: 'Benötigen Sie Hilfe?',
+  },
+
+  studio: {
+    aiStudio: 'KI-Studio',
+    chooseATool: 'Wählen Sie ein Tool und erstellen Sie erstaunliche Medien',
+    faceSwap: 'Gesichtsaustausch',
+    imageToVideo: 'Bild zu Video',
+    textToVideo: 'Text zu Video',
+    useTool: 'Tool verwenden',
+  },
+
+  common: {
+    loading: 'Wird geladen...',
+    error: 'Fehler',
+    success: 'Erfolg',
+    save: 'Speichern',
+    cancel: 'Abbrechen',
+    delete: 'Löschen',
+  },
+};

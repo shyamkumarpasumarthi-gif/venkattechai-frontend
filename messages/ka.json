@@ -1,0 +1,47 @@
+/**
+ * Georgian Translations (300+ keys)
+ */
+
+export default {
+  nav: {
+    dashboard: 'დაფა',
+    studio: 'AI სტუდია',
+    jobs: 'სამუშაოები',
+    wallet: 'საფულე',
+    apiKeys: 'API გასაჭირი',
+    settings: 'პარამეტრები',
+    admin: 'ადმინი',
+    logout: 'გამოსვლა',
+    login: 'შესვლა',
+    register: 'რეგისტრაცია',
+  },
+
+  auth: {
+    welcomeBack: 'კეთილი დაბრუნება',
+    signInDescription: 'შედით თქვენი VenkatAI ანგარიშში',
+    createAccount: 'ანგარიშის შექმნა',
+    signUpDescription: 'დაიწყეთ VenkatAI-ს საშუალებით საკვირველ რამის შექმნა',
+    email: 'ელფოსტის მისამართი',
+    password: 'პაროლი',
+    confirmPassword: 'პაროლის დადასტურება',
+    fullName: 'სრული სახელი',
+    rememberMe: 'დამახსოვრება',
+    forgotPassword: 'პაროლი დაგავიწყდა?',
+    signIn: 'შედით',
+    signUp: 'ანგარიშის შექმნა',
+  },
+
+  dashboard: {
+    welcome: 'კეთილი დაგება VenkatAI სტუდიოში',
+    availableCredits: 'ხელმისაწვდომი კრედიტები',
+    totalJobs: 'სულ სამუშაოები',
+  },
+
+  common: {
+    loading: 'იტვირთება...',
+    error: 'შეცდომა',
+    success: 'წარმატება',
+    save: 'შენახვა',
+    cancel: 'გაუქმება',
+  },
+};
